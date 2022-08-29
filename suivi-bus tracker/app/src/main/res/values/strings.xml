@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Guardian</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="or">OR</string>
+    <string name="google_icon">google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="permission_required_toast">Permission granted</string>
+    <string name="location_permission_denied">Access denied</string>
+    <string name="permission_rationale_location">Give permission</string>
+    <!--to toggle the open close button
+        of the navigation drawer-->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="channel_name">my channel</string>
+    <string name="channel_description">my desc</string>
+</resources>

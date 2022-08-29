@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_first_fragment"
+
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_second_fragment"
+
+            android:title="Track" />
+        <item
+            android:id="@+id/nav_third_fragment"
+
+            android:title="Location" />
+        <item
+            android:id="@+id/nav_fourth_fragment"
+
+            android:title="About Us" />
+    </group>
+</menu>
+
+
+<!--    android:icon="@drawable/ic_one"-->
+<!--    android:icon="@drawable/ic_two"-->
+<!--    android:icon="@drawable/ic_three"-->
